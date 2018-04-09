@@ -14,11 +14,11 @@ operate? The goal of this repository is to make the answer to this question
    :maxdepth: 2
    :caption: Contents:
 
-   retrospectives/**
+   *
+   retrospectives/*
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
