@@ -1,5 +1,5 @@
 .. image:: https://github.com/ColoradoSchoolOfMines/acm-brand/blob/master/logo/triangle/full_2048.png?raw=true
-   :width: 400px
+   :width: 300px
 
 Mines ACM Officer Resources
 ===========================
