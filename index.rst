@@ -6,5 +6,19 @@ Mines ACM Officer Resources
 
 If all of the officers died in a car crash, would Mines ACM still continue to
 operate? The goal of this repository is to make the answer to this question
-"yes". In other words, this repository is designed to make the bus count
+"yes". In other words, this repository is designed to make the bus count for ACM
 :math:`\infty`!
+
+.. toctree::
+   :glob:
+   :maxdepth: 2
+   :caption: Contents:
+
+   retrospectives/**
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
