@@ -26,12 +26,12 @@ def setup(app):
 project = 'Mines ACM Officer Resources'
 copyright = '2018, Mines ACM'
 author = 'Mines ACM Officers'
+github = 'https://github.com/sumnerevans/officer-resources'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
 release = ''
-
 
 # -- General configuration ---------------------------------------------------
 
@@ -80,13 +80,24 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'README.rst']
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
+rst_epilog = f"""
+.. tip::
+
+   If you have any questions or want to suggest a change to this document,
+   please submit an issue or PR to the `GitHub repo`_.
+
+   .. _GitHub repo: {github}
+"""
 
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'classic'
+html_theme = 'nature'
+
+html_title = project
+html_favicon = '_static/favicon.ico'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -109,12 +120,10 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
-
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'MinesACMOfficerResourcesdoc'
-
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -140,20 +149,14 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'MinesACMOfficerResources.tex', 'Mines ACM Officer Resources',
-     'Mines ACM Officers', 'manual'),
+    (master_doc, 'MinesACMOfficerResources.tex', project, author, 'manual'),
 ]
-
 
 # -- Options for manual page output ------------------------------------------
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [
-    (master_doc, 'minesacmofficerresources', 'Mines ACM Officer Resources',
-     [author], 1)
-]
-
+man_pages = [(master_doc, 'minesacmofficerresources', project, [author], 1)]
 
 # -- Options for Texinfo output ----------------------------------------------
 
@@ -161,11 +164,10 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'MinesACMOfficerResources', 'Mines ACM Officer Resources',
-     author, 'MinesACMOfficerResources', 'One line description of project.',
+    (master_doc, 'MinesACMOfficerResources', project, author,
+     'MinesACMOfficerResources', 'One line description of project.',
      'Miscellaneous'),
 ]
-
 
 # -- Extension configuration -------------------------------------------------
 

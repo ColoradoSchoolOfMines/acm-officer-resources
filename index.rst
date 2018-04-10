@@ -20,9 +20,3 @@ This repository is inspired by https://github.com/acmumn/officer-resources/
 
    *
    retrospectives/*
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
