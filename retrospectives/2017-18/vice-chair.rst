@@ -1,6 +1,8 @@
 Vice Chair
 ==========
 
+.. TODO: add stuff about submitting to daily blast
+
 :Author: Sumner Evans
 
 The official role of the Vice Chair is very nebulous. Basically the only
