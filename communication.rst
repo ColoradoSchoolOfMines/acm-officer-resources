@@ -35,7 +35,16 @@ Mines ACM Internal Communication
 
 :Owner: Sumner Evans
 
-- Email meeting notifications
+Another critical aspect of communication is communicating with the general ACM
+members. The primary form of communication is the mailing list.
+
+It is critical that an email is sent every Monday, before Tuesday's meeting
+with information about the upcoming meeting and any other pertinent
+announcements.
+
+See the `mailing list archives`_ for past emails.
+
+.. _mailing list archives: https://acm.mines.edu/mailinglist
 
 External Communication
 ----------------------
