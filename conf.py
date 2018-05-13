@@ -81,6 +81,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'README.rst']
 pygments_style = 'sphinx'
 
 rst_epilog = f"""
+-------------------------------------------------------------------------------
+
 .. tip::
 
    If you have any questions or want to suggest a change to this document,
@@ -94,7 +96,7 @@ rst_epilog = f"""
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'classic'
+html_theme = 'sphinx_rtd_theme'
 
 html_title = project
 html_favicon = '_static/favicon.ico'

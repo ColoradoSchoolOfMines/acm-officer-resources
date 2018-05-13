@@ -15,7 +15,7 @@ This repository is inspired by https://github.com/acmumn/officer-resources/
 
 .. toctree::
    :glob:
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    *
