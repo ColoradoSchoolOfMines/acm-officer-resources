@@ -21,24 +21,29 @@ This repository is inspired by https://github.com/acmumn/officer-resources/
    *
    retrospectives/*
 
-Ownership and Delegation Model
-------------------------------
+Repository Organization
+-----------------------
 
-The main concept governing how this club is run is that every part of the club
-**must** be owned by someone. For example, in 2017-18 Jack owned the entire
-club, Sumner owned the organization of tech talks, Robby owned the Visplay
-project, etc.
+This repository is organized to reflect the *Ownership and Delegation Model* of
+club management.  The main concept that governs how this club is run is that
+every part of the club **must** be owned by someone. For example, in 2017-18
+Jack owned the entire club, Sumner owned the organization of tech talks, Robby
+owned the Visplay project, etc.
 
 This idea has proved to be a good way of conceptualizing responsibilities in the
 club.
 
-Code (pseudo-Haskell) is a good way of describing this::
+Code (pseudo-Haskell) is a good way of describing this:
+
+.. code-block:: haskell
 
     -- Responsibility is a tree, it has a description, owner and a list
     -- of sub-responsibilities.
     data Responsibility = Responsibility Description Owner [Responsibility]
 
-The topmost responsibility tree would be::
+The topmost responsibility tree would be:
+
+.. code-block:: haskell
 
     Responsibility
         "run the club"
@@ -58,3 +63,5 @@ delegation does not necessarily mean that you have to delegate to someone who is
 of "lesser rank", you can also delegate to other members of the officer team.
 
 It is up to the chair to perform the delegation of root-level tasks.
+
+This repository is organized to reflect the ``Responsibility`` tree.
