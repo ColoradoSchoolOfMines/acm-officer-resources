@@ -6,8 +6,12 @@ install:
 - pip install --upgrade pip
 - pip install -r requirements.txt
 script:
-# this tests to make sure that it builds properly
 - make html
-
-# deploy if this is master
-#- test $TRAVIS_BRANCH = "master" && make deploy || true
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local_dir: _build/html
+  github-token: $GITHUB_TOKEN
+  keep-history: false
+  on:
+    branch: master

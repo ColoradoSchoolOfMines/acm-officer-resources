@@ -46,8 +46,14 @@ See the `mailing list archives`_ for past emails.
 
 .. _mailing list archives: https://acm.mines.edu/mailinglist
 
+In addition, if there is a presenter and they provide additional resources or
+other follow up from their talk, someone should email those resources to the
+mailing list whenever the resources are available, preferably on Wednesday.
+
 External Communication
 ----------------------
+
+:Owner: Sumner Evans
 
 - CS Dept
 - Mozilla
