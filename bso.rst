@@ -1,4 +1,0 @@
-BSO
-===
-
-:Owner: Sumner Evans

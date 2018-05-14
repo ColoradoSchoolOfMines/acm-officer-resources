@@ -4,7 +4,7 @@ Attendance
 :Owner: Jack Garner
 
 Use the ACM Website has a built-in survey system to create a survey before each
-meeting. Useful data points to collect are:
+meeting. Important data points to collect are:
 
 - Name
 - Is this your first time at ACM? If so, how did you hear about ACM?

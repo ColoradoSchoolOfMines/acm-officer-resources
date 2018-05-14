@@ -19,10 +19,10 @@ following:
 
   If someone does not want to own a project any more, they must either hand
   ownership to someone else, or there is no project.  One major advantage of
-  this approach is that it helps give people stake in the club.  It also looks
-  good on resumes: "Project owner of ACM project X". Most importantly, though,
-  it prevents us from having dead projects, or nebulous projects where nobody
-  knows what's going on.
+  this approach is that it helps give people stake in the club. An added benefit
+  is that it also looks good on resumes: "Project owner of ACM project X". Most
+  importantly, though, it prevents us from having dead projects, or nebulous
+  projects where nobody knows what's going on.
 
 - Each project team must also put together a presentation for the C-MAPP Awards
   event in January. This will help provide a goal that each project can work

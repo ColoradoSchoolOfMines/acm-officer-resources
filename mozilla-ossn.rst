@@ -17,9 +17,13 @@ training before.
 Network Calls
 -------------
 
-At least one officer should attend the meetings.
+These calls occur once or twice every month. At least one officer should attend
+the meetings.
 
-Experiments
------------
+Resources
+---------
 
-Mozilla provides a bunch of experiments
+Mozilla provides a bunch of resources for helping run the club. These include:
+
+- Experiments (opportunities for OSS contribution without necessarily coding)
+- Open Source Guides

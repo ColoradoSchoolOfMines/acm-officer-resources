@@ -56,6 +56,7 @@ External Communication
 :Owner: Sumner Evans
 
 - CS Dept
+- Professors
 - Mozilla
 - C-MAPP
 - BSO
