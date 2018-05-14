@@ -26,7 +26,7 @@ def setup(app):
 project = 'Mines ACM Officer Resources'
 copyright = '2018, Mines ACM'
 author = 'Mines ACM Officers'
-github = 'https://github.com/sumnerevans/officer-resources'
+github = 'https://github.com/ColoradoSchoolOfMines/acm-officer-resources'
 
 # The short X.Y version
 version = ''

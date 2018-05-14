@@ -1,5 +1,5 @@
 Mines ACM Officer Resources
 ===========================
 
-.. image:: https://travis-ci.com/sumnerevans/officer-resources.svg?token=itzjxqrMdo6zHKk4xgUs&branch=master
-    :target: https://travis-ci.com/sumnerevans/officer-resources
+.. image:: https://travis-ci.com/ColoradoSchoolOfMines/acm-officer-resources.svg?branch=master
+    :target: https://travis-ci.com/ColoradoSchoolOfMines/acm-officer-resources
