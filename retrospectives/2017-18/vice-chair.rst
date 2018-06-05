@@ -1,8 +1,6 @@
 Vice Chair
 ==========
 
-.. TODO: add stuff about submitting to daily blast
-
 :Author: Sumner Evans
 
 The official role of the Vice Chair is very nebulous. Basically the only
@@ -156,9 +154,27 @@ The general flow of how I did this worked was this:
 
     Sumner
 
-6. A day before the talk, send a short email to remind the presenter and offer
+6. Submit the tech talk to the Daily Blast. This is done at
+   https://webapps.mines.edu/DailyBlast/Home/BuildDigestItem. I used the
+   following settings:
+
+   - Department/Organization: Mines ACM
+   - Category: Campus Events / Meetings
+   - Audience: Faculty / Staff and Students
+   - Division: Student Life - Student Activities / Organizations
+   - Title: <company> - Tech Talk Tuesday - <talk_title> - FREE FOOD!
+   - Brief description: Join Mines ACM as we host <name> from <company> for a
+     presentation about <topic (can be longer description than title)>.
+   - URL: https://acm.mines.edu/schedule
+   - Check the box to disable the long description, and instead go straight to
+     the URL.
+
+   Make sure that the talk is included on the Daily Blast on Monday and Tuesday
+   on the week of the talk.
+
+7. A day before the talk, send a short email to remind the presenter and offer
    to answer any last minute questions.
-7. A day after the talk, send a short thank you email to the presenter.
+8. A day after the talk, send a short thank you email to the presenter.
 
 What Went Well
 ~~~~~~~~~~~~~~

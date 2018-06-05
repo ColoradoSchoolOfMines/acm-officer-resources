@@ -12,7 +12,7 @@ OSSN Leadership Summit
 
 Mozilla hosts an annual event to train OSSN leaders. They pay for two people to
 go to these summits. Mines ACM should send two people who haven't gone to the
-training before.
+summit before.
 
 Network Calls
 -------------
@@ -27,3 +27,4 @@ Mozilla provides a bunch of resources for helping run the club. These include:
 
 - Experiments (opportunities for OSS contribution without necessarily coding)
 - Open Source Guides
+- A pizza fund
