@@ -19,13 +19,13 @@ CS Classes
 :Owner: Sumner Evans
 
 The CS Department as a whole is very supportive of ACM. We should attempt to get
-one of the officers to present about ACM at every section of 101, 261, 262, and
-306. Advertising at the upper level classes is not nearly as useful since by
-then, most people know about ACM anyway.
+one of the officers to present about ACM at every section of 101, 250, 261, 262,
+274, 303, and 306. Advertising at the upper level classes is not nearly as
+useful since by then, most people know about ACM anyway.
 
 At these presentations, explain what ACM is, what we do, how it's awesome, and
-how to get involved. Ideally, we do this on week 1 so we can advertise a big
-tech talk, some social event, and hackathon/onboarding session.
+how to get involved. Ideally, we do this on week 1 so we can advertise our first
+big tech talk, possibly some social event, and onboarding session.
 
 Referrals
 ---------

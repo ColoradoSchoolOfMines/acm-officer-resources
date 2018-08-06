@@ -24,6 +24,9 @@ following:
   importantly, though, it prevents us from having dead projects, or nebulous
   projects where nobody knows what's going on.
 
+- About a month into the school year, each project must create a list of goals
+  for the project to complete before C-MAPP.
+
 - Each project team must also put together a presentation for the C-MAPP Awards
   event in January. This will help provide a goal that each project can work
   towards. This is also a great opportunity for people to get experience

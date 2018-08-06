@@ -13,21 +13,24 @@ All Events
 
 These events have a lot in common as far as logistics go.
 
-.. note::
-
-    Not all events need require all of these. For example, social events don't
-    need to be advertised in the CS Weekly.
-
-- **Room:** (Sumner) every event needs a room. Reserve through TODO.
+- **Room:** (Jackson) every event needs a room. Reserve through TODO.
 - **Email Notifications:** (Sumner) every meeting needs an email notification.
   This should go out the day before the event.
 - **CS Weekly Notification:** (Sumner) every meeting needs to be on the CS
   Weekly. Email Kelly Knechtel <knechtel@mines.edu> to get events on the weekly.
 - **Flyers:** (Sumner) every meeting needs a flyer.
 
+Weekly Meetings
+---------------
+
+- **Designated "welcome" officer:** (Sumner)
+
 TODO: describe more info specific to these:
 
 - Weekly Meetings
+
+  - Tech Talks
+
 - Hackathons/competitions
 - Onboarding sessions
 
