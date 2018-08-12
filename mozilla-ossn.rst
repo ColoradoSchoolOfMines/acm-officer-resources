@@ -28,3 +28,4 @@ Mozilla provides a bunch of resources for helping run the club. These include:
 - Experiments (opportunities for OSS contribution without necessarily coding)
 - Open Source Guides
 - A pizza fund
+- `OSSN Slack <https://mossn.slack.com/>`_
