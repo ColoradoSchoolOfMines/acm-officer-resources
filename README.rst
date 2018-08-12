@@ -1,3 +1,6 @@
+Migrated to GitLab: https://gitlab.com/ColoradoSchoolOfMines/acm-officer-resources
+##################################################################################
+
 Mines ACM Officer Resources
 ===========================
 
